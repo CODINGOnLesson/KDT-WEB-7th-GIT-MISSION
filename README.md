@@ -19,8 +19,9 @@
   git checkout -b Hello/이름
   ```
 2. 1ST_MISSION_NAME.md 파일의 내용을 복사하여 3 rules와 wish 항목을 수정하여 따로 복사해놓기
-3. Add file로 Root에 Markdown 파일을 생성. 파일명은 1ST_MISSION_이름.md (예시: 1ST_MISSION_규리.md)
+3. Markdown 파일을 생성. 파일명은 1ST_MISSION_이름.md (예시: 1ST_MISSION_규리.md)
 4. 커밋 명은 Init: wish and 3 rules #1 ( #1은 본인의 Issue number )
+5. add → commit → push 를 이용해 올리기
 
 ### **Pull Requets 진행시 규칙**
 

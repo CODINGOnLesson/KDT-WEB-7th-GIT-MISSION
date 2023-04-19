@@ -10,16 +10,19 @@
 4. Issue number 기억해두기
 
 ### **Markdown 생성시 규칙**
+
 1. Hello/이름 형태로 브랜치 생성 (예시: Hello/kyuri)
-  ```
-  // git bash를 이용 ( MAC의 경우 터미널 이용 )
-  cd Desktop/github
-  git clone https://github.com/CODINGOnLesson/KDT-SF2-GIT-MISSTION.git
-  cd KDT-SF2-GIT-MISSTION
-  git checkout -b Hello/이름
-  ```
+
+```
+// git bash를 이용 ( MAC의 경우 터미널 이용 )
+cd Desktop/github
+git clone https://github.com/CODINGOnLesson/KDT-WEB-7th-GIT-MISSION.git
+cd KDT-WEB-7th-GIT-MISSION
+git checkout -b Hello/이름
+```
+
 2. 1ST_MISSION_NAME.md 파일의 내용을 복사하여 3 rules와 wish 항목을 수정하여 따로 복사해놓기
-3. Markdown 파일을 생성. 파일명은 1ST_MISSION_이름.md (예시: 1ST_MISSION_규리.md)
+3. Markdown 파일을 생성. 파일명은 1ST*MISSION*이름.md (예시: 1ST*MISSION*규리.md)
 4. 커밋 명은 Init: wish and 3 rules #1 ( #1은 본인의 Issue number )
 5. add → commit → push 를 이용해 올리기
 
